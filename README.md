@@ -1,5 +1,6 @@
 # youtube
-[7일 완성] 파이썬 기초부터 머신러닝까지 - ['퇴근후딴짓' 유튜브 채널](https://www.youtube.com/channel/UCs7pXreQXz30-ENLsnorqdA){:target="_blank"}
+[7일 완성] 파이썬 기초부터 머신러닝까지 
+  - ['퇴근후딴짓' 유튜브 채널](https://www.youtube.com/channel/UCs7pXreQXz30-ENLsnorqdA){:target="_blank"}
 
 - 과정설명: 데이터 분석 입문자를 위한 과정입니다
 - 학습방식: 빠르고 쉽게 머신러닝에 필요한 부분만 선택과 집중해서 학습
