@@ -13,5 +13,5 @@
 
 [![Video Label](http://img.youtube.com/vi/S_u2KPdZwZs/0.jpg)](https://youtu.be/S_u2KPdZwZs)
 
-[![Video Label](http://img.youtube.com/vi/S_u2KPdZwZs/0.jpg)](https://youtu.be/00t7Av6bybc)
+[![Video Label](http://img.youtube.com/vi/00t7Av6bybc/0.jpg)](https://youtu.be/00t7Av6bybc)
 
